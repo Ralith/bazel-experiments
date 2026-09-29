@@ -5,3 +5,4 @@ edition = "2024"
 
 [dependencies]
 pyo3 = "0.29"
+pyo3-introspection = "0.29" # Needed by bazel's rust_pyo3_toolchain
