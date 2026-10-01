@@ -1,0 +1,1 @@
+common --repo_env=BAZEL_DO_NOT_DETECT_PYTHON_TOOLCHAIN=1
